@@ -1,6 +1,6 @@
 <h2 align="left">
   Portfolio Website<br/>
-  <a href="[https://portfolio-9lei.vercel.app/](https://portfolio-drab-beta-16.vercel.app/)" target="_blank">Click here</a>
+  <a href="https://portfolio-drab-beta-16.vercel.app/" target="_blank">Click here</a>
 </h2>
 
 
